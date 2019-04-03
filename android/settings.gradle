@@ -1,0 +1,3 @@
+rootProject.name = 'reactNativeReduxSagaPersistBoilerplate'
+
+include ':app'
