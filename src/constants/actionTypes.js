@@ -1,0 +1,11 @@
+// App
+export const APP_NETWORK_STATUS = 'APP_NETWORK_STATUS'
+
+// Auth
+export const AUTH_UPDATE = 'AUTH_UPDATE'
+export const AUTH_RESET = 'AUTH_RESET'
+
+// Products
+export const PRODUCTS_GET_ALL = 'PRODUCTS_GET_ALL'
+export const PRODUCTS_GET_ALL_SUCCESS = 'PRODUCTS_GET_ALL_SUCCESS'
+export const PRODUCTS_ERROR = 'PRODUCTS_ERROR'
