@@ -19,7 +19,6 @@ const Reducer = persistCombineReducers(config, rootReducer)
 // Middlewares
 // const sagaMiddleware = createSagaMiddleware()
 const navigationMiddleware = createReactNavigationReduxMiddleware(
-  'nav-root',
   state => state.navigation
 )
 const middlewares = [
